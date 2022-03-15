@@ -48,17 +48,6 @@ bash bare12.sh
 | english.txt | list of english words for BIP39                                              |
 | sha256.log  | `shasum -a 256 *.txt *.sh > sha256.log` for validation on air gapped systems |
 
-## Donations
-
-- Bitcoin (BTC)
-`bc1q70j4x3yg0z72swyszvtfx7uvkuxx9ar74ejajf`
-
-- Ethereum (ETH)
-`0xA14466689c2D940Ebb1A557CE69d2058f693cac5`
-
-- Monero (XMR)
-`4AXEpiTQSo5hEscvTB6ocrSuu6taNWANBjpTpRNCqkrAcv4znuQCsJRe91Kvb3siAcHcqUdY9rbxdgPc5KnN7Rrk6xpaFkD`
-
 ## External links
 
 - [How to create a 24-word Seed Phrase using Dice and Linux Command-Line](https://www.reddit.com/r/CryptoCurrency/comments/k3mwph/how_to_create_a_24word_seed_phrase_using_dice_and/)
